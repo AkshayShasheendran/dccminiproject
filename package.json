@@ -10,7 +10,7 @@
   "author": "Saumil",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^6.3.1",
+    "sendgrid": "^4.2.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "multer": "^1.4.1",
